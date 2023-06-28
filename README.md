@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Ref:-
+https://vuejsexamples.com/start-a-chrome-extension-project-with-vue-cli-with-ease/
